@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item
+     android:id="@+id/call"
+     android:icon="@drawable/call"
+     android:title="call"/>
+
+    <item
+        android:id="@+id/btn_update"
+        android:icon="@drawable/outline_bigtop_updates_24"
+        android:title="update"/>
+    <item
+        android:id="@+id/btn_item"
+        android:icon="@drawable/communities"
+        android:title="communities"/>
+</menu>
